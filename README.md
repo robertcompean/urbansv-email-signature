@@ -11,10 +11,10 @@ The following placeholders in `urbansv-signature.html` still need real values:
 - `FACEBOOK_ICON_URL`
 - `LINKEDIN_ICON_URL`
 - `INSTAGRAM_ICON_URL`
-- `TIKTOK_ICON_URL`
 - `YOUTUBE_ICON_URL`
+- `BUYERSCOUT_ICON_URL`
 
-Profile links and the Cash Offer Calculator link are filled in.
+Profile links and the Cash Offer Calculator link are filled in. TikTok has been removed from the icon row; BuyerScout was added as the last icon, linking to the BuyerScout profile.
 
 ## Remaining work
 
