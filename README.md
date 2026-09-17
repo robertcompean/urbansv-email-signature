@@ -14,15 +14,7 @@ The following placeholders in `urbansv-signature.html` still need real values:
 - `TIKTOK_ICON_URL`
 - `YOUTUBE_ICON_URL`
 
-**Profile links:**
-- `FACEBOOK_LINK`
-- `LINKEDIN_LINK`
-- `INSTAGRAM_LINK`
-- `TIKTOK_LINK`
-- `YOUTUBE_LINK`
-
-**Other:**
-- `CALCULATOR_LINK` (Cash Offer Calculator page)
+Profile links and the Cash Offer Calculator link are filled in.
 
 ## Remaining work
 
